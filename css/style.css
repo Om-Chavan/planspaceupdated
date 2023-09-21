@@ -638,7 +638,7 @@ footer .content li {
   /*----global ----*/
   header {
     background-image: url("../image/back.jpg");
-    height: 120vh !important;
+    height: 100vh !important;
   }
 
   header .icon i {
@@ -677,7 +677,7 @@ footer .content li {
   /*---------------Design--------*/
   .Design {
     text-align: left;
-    margin-top: 150px;
+    /* margin-top: 10px; */
   }
 
   .Design .box i {
